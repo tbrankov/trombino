@@ -9,21 +9,21 @@ const Home = ({ navigation }) => {
         <View style={styles.container}>
             <ScrollView>
                 <View>
-            { members.map((member) => {
-                return (
-                    <TouchableOpacity
-                        key={member.id}
-                        style={styles.card}
-                        onPress={() => { navigation.navigate('Détails', {name: member.name, image: member.image})} }
-                    >
-                        <Image
-                            style={styles.logo}
-                            source={ images[member.image] }
-                        />
-                        <Text style={styles.elementText}>{member.name}</Text>
-                    </TouchableOpacity>
-                );
-            }) }
+                    { members.map((member) => {
+                        return (
+                            <TouchableOpacity
+                                key={member.id}
+                                style={styles.card}
+                                onPress={() => { navigation.navigate('Détails', {name: member.name, image: member.image})} }
+                            >
+                                <Image
+                                    style={styles.logo}
+                                    source={images[member.image]}
+                                />
+                                <Text style={styles.elementText}>{member.name}</Text>
+                            </TouchableOpacity>
+                        );
+                    }) }
                 </View>
             </ScrollView>
         </View>
