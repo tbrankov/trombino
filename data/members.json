@@ -2,73 +2,61 @@
   {
     "id": 1,
     "name": "Clement Chapurlat",
-    "image": "cc",
-    "desc": ""
+    "image": "cc"
   },
   {
     "id": 2,
     "name": "Farah Abdelkhalek",
-    "image": "fa",
-    "desc": ""
+    "image": "fa"
   },
   {
     "id": 3,
     "name": "Antoine Faust",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 4,
     "name": "Benjamin Bordes",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 5,
     "name": "Hippolyte Bach",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 6,
     "name": "Hadouin Lerouy",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 7,
     "name": "Maximilien-marie delorme",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 8,
     "name": "Guilain Maurel",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 9,
     "name": "Lilian Mailet",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 10,
     "name": "Nathan Weber",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 11,
     "name": "Adrien Bethuel",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   },
   {
     "id": 12,
     "name": "Armand Bidault",
-    "image": "na",
-    "desc": ""
+    "image": "na"
   }
 ]
